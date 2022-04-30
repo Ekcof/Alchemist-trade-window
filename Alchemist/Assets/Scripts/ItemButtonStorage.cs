@@ -18,6 +18,10 @@ public class ItemButtonStorage : MonoBehaviour
         button = GetComponent<Button>();
    }
 
+    /// <summary>
+    /// Set the certain itemConfig for this button
+    /// </summary>
+    /// <param name="newItemConfig"></param>
     public void SetItemConfig(ItemConfig newItemConfig)
     {
         itemConfig = newItemConfig;

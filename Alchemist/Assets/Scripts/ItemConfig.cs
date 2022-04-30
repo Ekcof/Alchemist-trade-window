@@ -12,6 +12,10 @@ public class ItemConfig : MonoBehaviour
     [SerializeField] private GameObject model;
     [SerializeField] private bool isPremium;
     
+    /// <summary>
+    /// Get the title of item
+    /// </summary>
+    /// <returns></returns>
     public string GetTitle()
     {
         return title;

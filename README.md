@@ -1,15 +1,15 @@
-## ALCHEMIST TRADE WINDOW UI
+# ALCHEMIST TRADE WINDOW UI
 
 The window for trade between player and some NPC.
 
 
 Author: Algis 'Ekcof' Khasanov @veselio
 
-# 1. INSTALLATION
+### 1. INSTALLATION
 Download this project's Unity package 'Alchemist'.
 In your own Unity Hub add the package and open it.
 
-# 2. HOW IT WORKS
+### 2. HOW IT WORKS
 This is template of UI trade window in a game about Alchemists.
 
 Here you see two sides of a trade on the table. Both have a stats table that includes name and money. Both have round avatars and an inventory window with items to sell.

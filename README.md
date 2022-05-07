@@ -3,7 +3,7 @@
 The window for trade between player and some NPC.
 
 
-*Author: Algis 'Ekcof' Khasanov*
+*Author: Algis 'Ekcof' Khasanov* 
 Telegram: @veselio
 
 ### 1. INSTALLATION

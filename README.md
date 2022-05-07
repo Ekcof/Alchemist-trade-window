@@ -8,8 +8,8 @@ The window for trade between player and some NPC.
 Telegram: @veselio
 
 ### 1. INSTALLATION
-Download this project's Unity package 'Alchemist'.
-In your own Unity Hub add the package and open it.
+1. Download this project's Unity package 'Alchemist'.
+2. Add the package in your own Unity Hub and open it.
 
 ### 2. HOW IT WORKS
 This is template of UI trade window in a game about Alchemists.

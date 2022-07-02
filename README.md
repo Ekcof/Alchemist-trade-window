@@ -5,7 +5,7 @@ The window for trade between player and some NPC.
 
 *Author: Algis 'Ekcof' Khasanov* 
 
-Telegram: @veselio
+Telegram: [@veselio](https://t.me/veselio)
 
 ### 1. INSTALLATION
 1. Download this project's Unity package 'Alchemist'.
